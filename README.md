@@ -1,2 +1,1 @@
-# CompProgramTattooandPiercing
-Competitive Programming Activity - Tattoo and Piercing ​
+# Competitive Programming Activity - Tattoo and Piercing ​
